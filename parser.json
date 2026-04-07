@@ -1,7 +1,6 @@
 {
-  "location": null,
-  "lang": "tlaplus",
   "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus",
   "semver": false,
-  "parser_version": "add40814fda369f6efd989977b2c498aaddde984"
+  "parser_version": "add40814fda369f6efd989977b2c498aaddde984",
+  "lang": "tlaplus"
 }
